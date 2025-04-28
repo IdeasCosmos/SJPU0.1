@@ -1,5 +1,3 @@
----
-
 # SJPU System Definition
 
 ## 1. Definition
